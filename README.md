@@ -170,6 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Nexus Dev Agent team</p>
+  <p>Made with ❤️ by Harery team</p>
   <p>⭐ Star this repository if it helped you!</p>
 </div>
